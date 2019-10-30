@@ -1,0 +1,2 @@
+docker run --name ng -d -p 8080:80 myng
+docker run --name ng -d -p 8080:80 myng
